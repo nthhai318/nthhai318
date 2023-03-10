@@ -12,5 +12,6 @@ Something about me:
 
 Check out my [Blog](https://nthhai-site.vercel.app/)
 
-- 📫 Reach me thehai318@gmail.com :)
+- Reach me thehai318@gmail.com :)
+- My [LinkedIn](https://www.linkedin.com/in/the-hai-ngo/)
 
