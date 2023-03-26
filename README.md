@@ -1,4 +1,4 @@
-Hi, I’m @NthHai318
+Hi, I’m Harry Ngo.
 I am a front end web developer with 2+ years experienced in designing and developing user-friendly websites and applications.
 
 Something about me: 
