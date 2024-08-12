@@ -1,5 +1,5 @@
 Hi, I’m Harry Ngo.
-I am a front end web developer with 2+ years experienced in designing and developing user-friendly websites and applications.
+I am a front end web developer with 4+ years experienced in designing and developing user-friendly websites and applications.
 
 Something about me: 
 - Proficient in HTML, CSS, JavaScript, and React, strong expertise in using the Next.js framework
